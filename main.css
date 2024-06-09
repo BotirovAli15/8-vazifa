@@ -7,6 +7,7 @@ body{
     align-items: center;
     height: 100vh;
     background: #240229;
+    overflow: hidden;
 }
 .loader{
     position: relative;
